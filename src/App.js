@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import "./App.css";
 import Coins from "./components/Coins";
 import Navbar from "./components/Navbar";
 
